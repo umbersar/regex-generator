@@ -1,6 +1,5 @@
 package org.olafneumann.regex.generator.ui
 
-const val CLASS_HIDDEN = "rg-hidden"
 const val CLASS_MATCH_ROW = "rg-match-row"
 const val CLASS_MATCH_ITEM = "rg-match-item"
 const val CLASS_ITEM_SELECTED = "rg-item-selected"
